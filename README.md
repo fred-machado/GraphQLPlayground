@@ -16,3 +16,5 @@ Sample query:
     }
 }
 ```
+
+<img width="750" alt="image" src="https://github.com/fred-machado/GraphQLPlayground/assets/159866456/a39ab12a-e932-45fc-b248-04e617b787d3">
